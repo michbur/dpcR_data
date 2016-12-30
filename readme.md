@@ -5,7 +5,7 @@
 
 # Usage of the data sets
 
-The data can be downloaded here on [github](https://github.com/michbur/dpcReport_data/archive/master.zip), so that the download is as open and simple as possible.
+The data can be downloaded here on [github](https://github.com/michbur/dpcReport_data/archive/master.zip) as a zip-file, so that the download is as open and simple as possible. [Indepentent of that, this data repository can be used as any github repository.](https://guides.github.com/activities/hello-world/).
 
 # Software package for the data analysis
 
