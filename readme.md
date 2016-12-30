@@ -1,5 +1,5 @@
 ====
-Additional data sets for the analysis, visualisation and simulation of digital PCR experiments.
+# Additional data sets for the analysis, visualisation and simulation of digital PCR experiments.
 ![dpcR data](https://github.com/michbur/dpcReport_data/blob/master/dpcReport_data_logo.png)
 
 
