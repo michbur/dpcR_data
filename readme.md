@@ -11,3 +11,10 @@ The data can be downloaded here on [github](https://github.com/michbur/dpcReport
 
 The data can be used from the web server [dpcReport](http://www.smorfland.uni.wroc.pl/shiny/dpcReport/) GUI or from the command line via the [dpcR](https://github.com/michbur/dpcR) R package.
 
+# Sources of the data
+
+The data were provided by researchers of Indepentent projects. The following table gives some details on the contributors.
+
+| Contributor | Data set | Citation |
+| :-------: | :-------: | :-------: |
+| Michael Jan | QX100_rawdata.zip | TBD|
