@@ -17,4 +17,8 @@ The data were provided by researchers of Indepentent projects. The following tab
 
 | Contributor | Data set | Citation |
 | :-------: | :-------: | :-------: |
-| Michael Jan | QX100_rawdata.zip | TBD|
+|  | BioMark_detailed.csv | TBD |
+|  | BioMark_summary.xlsx | TBD |
+|  | QX100.xslx | TBD |
+| Michael Jan | QX100_rawdata.zip | TBD |
+|  | QX200.csv | TBD |
