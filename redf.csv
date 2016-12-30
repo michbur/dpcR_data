@@ -1,0 +1,9 @@
+experiment,replicate,assay,k,n,v,uv,threshold,panel_id
+Experiment1,1,Chr4,100,765,1,0,1,1
+Experiment1,2,MYC,89,765,1,0,1,2
+Experiment2,1,Chr4,39,765,1,0,1,1
+Experiment2,2,MYC,42,765,1,0,1,2
+Experiment3,1,Chr4,61,765,1,0,1,1
+Experiment3,2,MYC,67,765,1,0,1,2
+Control,1,Chr4,2,765,1,0,1,1
+Control,2,MYC,5,765,1,0,1,2
