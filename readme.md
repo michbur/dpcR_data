@@ -22,3 +22,4 @@ The data were provided by researchers from independent projects. The following t
 |  | QX100.xslx | TBD |
 | Michael Jan | QX100_rawdata.zip | TBD |
 |  | QX200.csv | TBD |
+| Michał Burdukiewicz | redf.csv | TBD |
