@@ -5,7 +5,7 @@
 
 # Usage of the data sets
 
-The data can be downloaded here on [github](https://github.com/michbur/dpcReport_data/archive/master.zip) as a zip-file, so that the download is as open and simple as possible. [Indepentent of that, this data repository can be used as any github repository.](https://guides.github.com/activities/hello-world/).
+The data can be downloaded here on [github](https://github.com/michbur/dpcReport_data/archive/master.zip) as a zip-file, so that the download is as open and simple as possible. [However, this data repository can be used as any github repository.](https://guides.github.com/activities/hello-world/).
 
 # Software package for the data analysis
 
@@ -13,7 +13,7 @@ The data can be used from the web server [dpcReport](http://www.smorfland.uni.wr
 
 # Sources of the data
 
-The data were provided by researchers of Indepentent projects. The following table gives some details on the contributors.
+The data were provided by researchers from independent projects. The following table gives some details on the contributors. If you wish to add a data set please contact us on github.
 
 | Contributor | Data set | Citation |
 | :-------: | :-------: | :-------: |
