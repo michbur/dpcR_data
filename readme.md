@@ -1,6 +1,6 @@
 ====
 # Additional data sets for the analysis, visualisation and simulation of digital PCR experiments.
-<img src="dpcReport_data_logo.png" alt="Logo" style="width: 50px;"/>
+<img src="dpcReport_data_logo.png" alt="Logo" width: "100"/>
 
 # Usage of the data sets
 
@@ -22,3 +22,7 @@ The data were provided by researchers from independent projects. The following t
 | Michael Jahn | QX100_rawdata.zip | TBD |
 | Max Kuhn | QX200.csv | TBD |
 | Michał Burdukiewicz | redf.csv | TBD |
+
+# About
+
+This data repository is a part of [pcRuniveRsum](http://michbur.github.io/pcRuniveRsum/).
