@@ -1,7 +1,6 @@
 ====
 # Additional data sets for the analysis, visualisation and simulation of digital PCR experiments.
-![dpcR data](https://github.com/michbur/dpcReport_data/blob/master/dpcReport_data_logo.png)
-
+<img src="dpcReport_data_logo.png" alt="Logo" style="width: 50px;"/>
 
 # Usage of the data sets
 
@@ -17,9 +16,9 @@ The data were provided by researchers from independent projects. The following t
 
 | Contributor | Data set | Citation |
 | :-------: | :-------: | :-------: |
-|  | BioMark_detailed.csv | TBD |
-|  | BioMark_summary.xlsx | TBD |
+| Alexandra Whale | BioMark_detailed.csv | TBD |
+| Alexandra Whale | BioMark_summary.xlsx | TBD |
 |  | QX100.xslx | TBD |
-| Michael Jan | QX100_rawdata.zip | TBD |
-|  | QX200.csv | TBD |
+| Michael Jahn | QX100_rawdata.zip | TBD |
+| Max Kuhn | QX200.csv | TBD |
 | Michał Burdukiewicz | redf.csv | TBD |
