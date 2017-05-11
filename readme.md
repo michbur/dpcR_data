@@ -4,7 +4,23 @@
 
 # Usage of the data sets
 
+## Download
+
 The data can be downloaded here on [github](https://github.com/michbur/dpcReport_data/archive/master.zip) as a zip-file, so that the download is as open and simple as possible. [However, this data repository can be used as any github repository](https://guides.github.com/activities/hello-world/).
+
+## Download and read into R
+
+All data sets can be downloaded using the following code:
+
+```
+download.file(url = "https://github.com/michbur/dpcReport_data/archive/master.zip", 
+              destfile = "dpcReport_data.zip")
+unzip("dpcReport_data.zip", exdir = getwd())
+file.remove("dpcReport_data.zip")
+# read a chosen file using dpcR package
+library(dpcR)
+read_dpcr(input = "dpcR_data-master/QX200.csv", format = "QX200")
+```
 
 # Software package for the data analysis
 
